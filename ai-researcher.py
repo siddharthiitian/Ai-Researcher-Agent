@@ -41,6 +41,6 @@ def pdf_assistant(new: bool = False, user: str = "user"):
     print(f"Continuing Run: {run_id}\n")
     assistant.cli_app(markdown=True)
    if __name__=="_main_":
-    typer. run (pdf_assistant)
+    typer. run (pdf_assista)
 
 
